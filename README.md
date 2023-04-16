@@ -18,6 +18,6 @@ Notebooks practicing with PyTorch
 - Useful quality-of-life improvements offered by PyTorch Lightning: `LightningDataModules`, `Callbacks`, and `Metrics`
 - Example with `Logistic Regression` on `MNIST` dataset
 
-[lighting_cnn.ipynb](lighting_cnn.ipynb)
+[lightning_cnn.ipynb](lightning_cnn.ipynb)
 - Fundamental principles for building neural networks with convolutional components
 - How to use PyTorch Lightning's training framework via a CLI
