@@ -6,6 +6,8 @@ Notebooks practicing with PyTorch
 - a simple notebook using `torch.nn` and `torch.utils.data` for `FashionMNIST` dataset
 - DataLoading, creating model. optimizing model parameters, training, testing and evaluation steps included
 
+# Full Stack Deep Learning
+
 [pytorch.ipynb](pytorch.ipynb) 
 - How to write a basic neural network from scratch in `PyTorch`
 - How the submodules of torch, like `torch.nn` and `torch.utils.data`, make writing performant neural network training and inference code easier
